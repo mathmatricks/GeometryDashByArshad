@@ -1,1 +1,1 @@
-Thank you for downloading ESC_GeometryDash game. You can change the song to your favourite song by replacing "song.mp3" as another song,And other Files too with the same method. 
+Download the "dist" folder.Thank you for downloading ESC_GeometryDash game. You can change the song to your favourite song by replacing "song.mp3" as another song,And other Files too with the same method. 
